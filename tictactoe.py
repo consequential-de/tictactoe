@@ -1,4 +1,4 @@
-#Tic Tac Toe game in python
+#Tic Tac Toe game in python by dominik voll 
 
 board = [' ' for x in range(10)]
 
