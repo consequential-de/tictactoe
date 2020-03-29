@@ -1,5 +1,6 @@
 #Tic Tac Toe game in python3 by dominik voll
 # One more change
+# Change from Nano Jetson
 
 
 board = [' ' for x in range(10)]
